@@ -4,9 +4,7 @@ Create a back end e-commerce site that will take a working Express.js API and co
 ## Mock Up 
 ![MOCKUP](./images/mockup.png)
   
-  
-The full movie https://drive.google.com/file/d/1Mm4vEIL55YrQohMFT5rYWnhV1RIW-hV2/view?usp=sharing
-  
+The full movie file showing functionality of the application can be found [HERE](https://drive.google.com/file/d/1Mm4vEIL55YrQohMFT5rYWnhV1RIW-hV2/view?usp=sharing)  
 ## User Story
   
 ```
@@ -41,4 +39,12 @@ THEN I am able to successfully create, update, and delete data in my database
 
 `npm i sequelize`
 
-  
+## Usage
+- TERMINAL $mysql -u root -p
+- TERMINAL $show databases;
+- TERMINAL $create database ecommerce_db;
+- TERMINAL $exit 
+- TERMINAL $npm start
+- TERMINAL displays "Now Listening 3001"
+
+
